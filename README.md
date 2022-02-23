@@ -1,2 +1,25 @@
-# TheWorldRevised
- The official repo for The World Revised, a Hearts of Iron IV alt-history mod that asks the question: What if the Americans lost the Revolutionary War?
+# The World Revised
+
+The official repo for The World Revised, a Hearts of Iron IV alt-history mod that asks the question: What if the Americans lost the Revolutionary War?
+
+## History
+
+Though Washington's Rebellion was defeated in 1775, the incident was a wake-up call for the British Parliament. They could no longer sit idly by on the other side of the Atlantic and expect the colonials to govern themselves, a stronger hand had to be felt. At the same time, they were not blind to the causes of the rebellion...or to the fact that it could happen again, if the harsh taxation and repression of civil liberties were not alleviated. As a compromise to the colonial administration, the Dominion of New England was founded under the leadership of a Governor and the states therein were given seats in Parliament. The subsequent thirty years of reform did much to cool colonial tempers and enabled a stable and prosperous British administration.
+
+These measures to placate the colonies were not without their costs, however. The British poured much treasure and many men into their North American colonies at the expense of holdings elsewhere, arrogantly believing that their only care was their dominions. The violence and turmoil occurring just across the Channel was no concern of theirs, they thought. No matter what darkness shrouded the Continent, the sun would never set on the British Empire.
+
+They were mistaken.
+
+The French poured blood and treasure in impossible quantities into the upstart colonial rebellion, and received nothing back. Internationally humiliated, bankrupt, and gripped by famine, the kingdom of the French teetered over the abyss and then plunged bodily into it. The Reign of Terror was brutal and bloody, over a decade of madness and misery. The rise of Napoleon Bonaparte promised a brighter future for the French, and he would lead his people on to stunning victories. Among these victories was the Battle of Trafalgar, where the British fleet was smashed and broken. The British put up a fierce fight in 1806 when blue-coated French troops landed on their shores, but the brave Redcoats were hopeless against the Grande Armee. The Royal Family barely managed to escape across the sea to New England, where they vowed revenge and to one day return.
+
+These defeats in Europe were matched by successes in the Americas, however. The territory of Louisiana was captured in its entirety by the British-Americans, and Spain was forced to concede its own colonial possessions. Though First Consul Bonaparte I proclaimed the cost of these lands' administration had outweighed their benefit (and thus, that their loss was immaterial), the pride of the French was nonetheless stung slightly. But where France had lost its colonies, Britain had lost its homeland. The 19th century would belong to France, and it would see the Bonapartes consolidate their gains and forge a lasting domain.
+
+Yet all was not well for France. Napoleon could never be succeeded by any so great, and his successors came to take his gains for granted. The memory of hard-fought victories faded and domains started to slip from their grasp. In Central Europe, the German people seek to unify their lands into an empire to rival France. France entered the 20th century strong and powerful but increasingly decadent and plagued by foreign unrest.
+
+Russia had it far worse, however. The centuries-old system of serfdom was never reformed, and any innovations were soundly rejected by a monarchy too interested in maintaining its own power to see the doom that approached in their future. The February Revolution in 1916 saw the Tsar forced to abdicate all but at gunpoint. The Provisional Government eventually formed the Russian Republic, the first true democracy in modern history. Their rejection of the Continental System and declaration of their intent to protect all slavic peoples alarmed and outraged the French, but by this point there was little they could do about it.
+
+## Setting
+
+The year is 1936, and the world is a lake of gas waiting to be struck alight. Tensions have been building between France and New England, as the latter seek to regain their homeland and avenge their defeats. The Russians and the English, meanwhile, are hotly contesting Alaska, the last foothold of Russian power in North America and the last obstacle to a truly united continent. France and Russia have been eyeing each other down, the French determined to check Russian power and return them to the fold and the Russians seeking to "liberate" the Slavic peoples within the Continental System.
+
+Amongst it all, Qing China seeks to expand the Mandate of Heaven and take its rightful place in history as the dominant power in the world. The brewing conflict, they think, is the perfect time to challenge British and French dominion over the Subcontinent and Indochina, respectively. Across the sea, the Japanese consider breaking their historical isolationism and turn towards allies in an increasingly threatening world. And among it all, the Germans seek to unify and assert their dominance over the world. And even a century and a half hence, the spark of revolution has not truly died out in America...
