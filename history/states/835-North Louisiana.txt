@@ -1,6 +1,6 @@
 
 state={
-	id=371
+	id=835
 	name="STATE_371"
 	manpower = 2101592
 	
@@ -11,21 +11,21 @@ state={
 	}
 
 	history={
-		owner = TEX
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
 			air_base = 5
 		}
 		victory_points = {
-			1528 1 
+			7599 1 
 		}
-		add_core_of = TEX
+		add_core_of = USA
 
 	}
 
 	provinces={
-		1528 1643 4507 12313 12401 
+		7599 7555 4522 1559
 	}
 
 	local_supplies=0.0 

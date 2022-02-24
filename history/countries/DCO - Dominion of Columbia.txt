@@ -1,4 +1,4 @@
-capital = 358
+capital = 386
 
 set_oob = "ENG_1936"
 
@@ -31,61 +31,6 @@ set_technology = {
 	fuel_silos = 1
 	fuel_refining = 1
 }
-
-create_faction = "English Commonwealth"
-add_to_faction = DCA
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = DCA
-		autonomous_state = autonomy_dominion
-	}
-	else = {
-		puppet = DCA
-	}
-}
-add_to_faction = DCO
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = DCO
-		autonomous_state = autonomy_dominion
-	}
-	else = {
-		puppet = DCO
-	}
-}
-add_to_faction = CAN
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = CAN
-		autonomous_state = autonomy_dominion
-	}
-	else = {
-		puppet = CAN
-	}
-}
-add_to_faction = USA
-if = {
-	limit = {
-		has_dlc = "Together for Victory"
-	}
-	set_autonomy = {
-		target = USA
-		autonomous_state = autonomy_dominion
-	}
-	else = {
-		puppet = USA
-	}
-}
-give_guarantee = TEX
 
 set_politics = {
 	ruling_party = parliamentary_monarchism
