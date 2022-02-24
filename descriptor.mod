@@ -12,3 +12,5 @@ tags={
 }
 name="The World Revised"
 supported_version="1.11.7"
+replace_path="common/countries"
+replace_path="history/countries"

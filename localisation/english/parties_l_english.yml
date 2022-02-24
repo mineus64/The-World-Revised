@@ -1,54 +1,42 @@
 ﻿l_english:
 
-totalitarian_despotism:0 "Totalitarian Despotism"
-totalitarian_despotism_noun:0 "Despotic"
-totalitarian_despotism_desc:0 "Totalitarian Regime"
-totalitarian_despotism_booster:0 "Autocratic Advocate"
+totalitarianism:0 "Totalitarian Despotism"
+totalitarianism_noun:0 "Despotic"
+totalitarianism_desc:0 "Totalitarian Regime"
+totalitarianism_booster:0 "Autocratic Advocate"
 
-absolute_monarchism:0 "Absolute Monarchism"
-absolute_monarchism_noun:0 "Monarchist"
-absolute_monarchism_desc:0 "Absolute Monarchy"
-absolute_monarchism_booster:0 "Monarchist Advocate"
+monarchism:0 "Monarchism"
+monarchism_noun:0 "Monarchist"
+monarchism_desc:0 "Monarchy"
+monarchism_booster:0 "Monarchist Advocate"
 
-revolutionary_monarchism:0 "Revolutionary Monarchism"
-revolutionary_monarchism_noun:0 "Monarchist"
-revolutionary_monarchism_desc:0 "Revolutionary Monarchy"
-revolutionary_monarchism_booster:0 "Revolutionary Monarchist"
+absolute_monarchism_desc:0 "Absolute Monarchism is a system where a single monarch wields absolute power over their subjects. Although they may maintain a representative body to advise them, and may even allow this body to carry out minor functions of state, nothing occurs without the monarch's express say-so."
 
-parliamentary_monarchism:0 "Parliamentary Monarchism"
-parliamentary_monarchism_noun:0 "Monarchist"
-parliamentary_monarchism_desc:0 "Parliamentary Monarchy"
-parliamentary_monarchism_booster:0 "Parliamentary Monarchist"
+revolutionary_monarchism_desc:0 "Revolutionary Monarchism is a uniquely French system blending absolute imperial authority over high-level matters of state and diplomacy with a representative body that is granted the authority to manage everyday affairs. Although the ruler dictates the overall direction and course of the nation, their political actions are limited to that of an executive approving or rejecting legislation."
 
-conservatism:0 "Conservatism"
-conservatism_noun:0 "Conservative"
-conservatism_desc:0 "Conservative Democracy"
-conservatism_booster:0 "Conservative Politician"
+parliamentary_monarchism_desc:0 "Parliamentary Monarchism is a system where the power of a monarch is balanced with the power of a parliament or congress. The monarch may in theory have wide-sweeping powers but by law or by tradition they exercise them only at the advice of their legislature. These monarchs guide their nations from afar, rarely taking an investment in general politics."
 
-liberalism:0 "Liberalism"
-liberalism_noun:0 "Liberal"
-liberalism_desc:0 "Liberal Democracy"
-liberalism_booster:0 "Liberal Politician"
+republicanism:0 "Republicanism"
+republicanism_noun:0 "Republican"
+republicanism_desc:0 "Republic"
+republicanism_booster:0 "Republican Politician"
 
-progressivism:0 "Progressivism"
-progressivism_noun:0 "Progressive"
-progressivism_desc:0 "Progressive Democracy"
-progressivism_booster:0 "Progressive Politician"
+conservatism_desc:0 "Conservatism is typically the "right-wing" end of a republican system, seeking to limit sweeping changes to tradition or existing policy. In monarchal or formerly monarchal systems conservatives may align themselves more strongly with the ruler, though they will still defend the existing republican traditions."
 
-democratic_socialism:0 "Democratic Socialism"
-democratic_socialism_noun:0 "Democratic Socialist"
-democratic_socialism_desc:0 "Socialist Republic"
-democratic_socialism_booster:0 "Socialist Agitator"
+liberalism_desc:0 "Liberalism is the "center" of a republican system, and promotes a wide range of personal freedoms balanced with extensive personal responsibilities. Liberals seek to open up free markets and to defend freedoms and rights for all people. However, they will also respect tradition to some extent and will defer to the past in the face of revolutionary zeal."
 
-revolutionary_socialism:0 "Revolutionary Socialism"
-revolutionary_socialism_noun:0 "Revolutionary Socialist"
-revolutionary_socialism_desc:0 "Socialist State"
-revolutionary_socialism_booster:0 "Socialist Revolutionary"
+progressivism_desc:0 "Progressivism is the "left-wing" of a republican system, seeking extensive expansion of personal freedoms and a strong check on the power of individuals. Where conservatives and liberals are heavily individualist, progressives lean into collectivism in their attitude towards social structures."
 
-bolshevism:0 "Bolshevism"
-bolshevism_noun:0 "Bolshevik"
-bolshevism_desc:0 "Worker's State"
-bolshevism_booster:0 "Bolshevik Revolutionary"
+socialism:0 "Socialism"
+socialism_noun:0 "Socialist"
+socialism_desc:0 "Socialist Republic"
+socialism_booster:0 "Socialist Agitator"
+
+democratic_socialism_desc:0 "Democratic Socialism is a system where the people have direct control over a socialistic government which seeks to redistribute wealth and other assets in order to achieve equality between the people, at whatever cost that may come."
+
+revolutionary_socialism_desc:0 "Revolutionary Socialism is a system where a strong central authority enforces total equality by law. Though the people nominally have a voice in their governance, voices which dissent against this system are usually quietly...disappeared."
+
+bolshevism_desc:0 "Bolshevism is a system where a single authoritarian ruler wields absolute power in a nation. Although nominally acting in the interest of the people, this system is always characterized by violence and oppression."
 
 anarchism:0 "Anarchism"
 anarchism_noun:0 "Anarchist"

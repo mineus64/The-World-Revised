@@ -1,9 +1,8 @@
 characters = {
-	NEG_winston_churchill = {
-		name = ENG_winston_churchill
+	DCA_generic_parliamentary = {
 		portraits = {
 			civilian = {
-				large = GFX_portrait_ENG_winston_churchill
+				large = GFX_portrait_Europe_Generic_4
 			}
 		}
 		

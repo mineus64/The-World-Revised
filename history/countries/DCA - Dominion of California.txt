@@ -33,28 +33,19 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = parliamentary_monarchism
+	ruling_party = monarchism
 	last_election = 1932.11.8
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	totalitarian_despotism = 0
-	
-	absolute_monarchism = 5
-	revolutionary_monarchism = 0
-	parliamentary_monarchism = 50
-	
-	conservatism = 25
-	liberalism = 15
-	progressivism = 5
-	
-	democratic_socialism = 0
-	revolutionary_socialism = 0
-	bolshevism = 0
-
+	totalitarianism = 0
+	monarchism = 75
+	republicanism = 25
+	socialism = 0
 	anarchism = 0
 }
 
-recruit_character = ENG_winston_churchill
+recruit_character = DCA_generic_parliamentary
+promote_character = DCA_generic_parliamentary

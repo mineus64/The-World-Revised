@@ -1,0 +1,106 @@
+﻿capital = 276
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_oob = "CAN_1936"
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_oob = "CAN_1936_nsb"
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_naval_oob = "CAN_1936_naval_mtg"
+	else = {
+		set_naval_oob = "CAN_1936_naval_legacy"
+	}
+}
+
+set_research_slots = 3
+set_stability = 0.8
+set_war_support = 0.1
+
+recruit_character = CAN_generic_parliamentary
+promote_character = CAN_generic_parliamentary
+
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_recon = 1
+	gw_artillery = 1
+	early_fighter = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	basic_train = 1
+}
+
+if = {
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
+	set_technology = {
+		gwtank = 1
+		basic_light_tank = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
+	}
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_destroyer = 1
+		early_light_cruiser = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_torpedo = 1
+		basic_depth_charges = 1
+		mtg_transport = 1
+	}
+}
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1935.10.14"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalitarianism = 0
+	monarchism = 75
+	republicanism = 25
+	socialism = 0
+	anarchism = 0
+}
+
+set_convoys = 100
+set_stability = 0.75

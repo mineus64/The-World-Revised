@@ -1,0 +1,16 @@
+characters = {
+	TEX_generic_parliamentary = {
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Europe_Generic_3
+			}
+		}
+		
+		country_leader = {
+			ideology = republicanism
+			traits = {
+
+			}
+		}
+	}
+}
