@@ -9,7 +9,7 @@ ideologies = {
 		}
 
 		dynamic_faction_names = {
-
+			"FACTION_NAME_DEMOCRATIC_1"
 		}
 
 		color = {0, 0, 0}
@@ -40,7 +40,7 @@ ideologies = {
 	absolute_monarchism = {
 		types = {
 			absolute_monarchism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -76,7 +76,7 @@ ideologies = {
 	revolutionary_monarchism = {
 		types = {
 			revolutionary_monarchism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -112,7 +112,7 @@ ideologies = {
 	parliamentary_monarchism = {
 		types = {
 			parliamentary_monarchism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -148,7 +148,7 @@ ideologies = {
 	conservatism = {
 		types = {
 			conservatism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -184,7 +184,7 @@ ideologies = {
 	liberalism = {
 		types = {
 			liberalism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -220,7 +220,7 @@ ideologies = {
 	progressivism = {
 		types = {
 			progressivism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -256,7 +256,7 @@ ideologies = {
 	democratic_socialism = {
 		types = {
 			democratic_socialism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -292,7 +292,7 @@ ideologies = {
 	revolutionary_socialism = {
 		types = {
 			revolutionary_socialism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -328,7 +328,7 @@ ideologies = {
 	bolshevism = {
 		types = {
 			bolshevism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 
@@ -364,7 +364,7 @@ ideologies = {
 	anarchism = {
 		types = {
 			anarchism = {
-				
+				"FACTION_NAME_DEMOCRATIC_1"
 			}
 		}
 

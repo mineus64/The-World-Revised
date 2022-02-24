@@ -1,4 +1,4 @@
-NEN = "countries/New England.txt"
+NEG = "countries/New England.txt"
 FRA = "countries/France.txt"
 DCN = "countries/Dominion of Canada.txt"
 DAM = "countries/Dominion of America.txt"
