@@ -1,0 +1,399 @@
+ideologies = {
+	
+	# Totalitarian Despotism
+	totalitarian_despotism = {
+		types = {
+			totalitarian_despotism = {
+
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Absolute Monarchism
+	absolute_monarchism = {
+		types = {
+			absolute_monarchism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Revolutionary Monarchism
+	revolutionary_monarchism = {
+		types = {
+			revolutionary_monarchism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Parliamentary Monarchism
+	parliamentary_monarchism = {
+		types = {
+			parliamentary_monarchism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Conservatism
+	conservatism = {
+		types = {
+			conservatism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Liberalism
+	liberalism = {
+		types = {
+			liberalism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Progressivism
+	progressivism = {
+		types = {
+			progressivism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Democratic Socialism
+	democratic_socialism = {
+		types = {
+			democratic_socialism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Revolutionary Socialism
+	revolutionary_socialism = {
+		types = {
+			revolutionary_socialism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Bolshevism
+	bolshevism = {
+		types = {
+			bolshevism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+	# Anarchism
+	anarchism = {
+		types = {
+			anarchism = {
+				
+			}
+		}
+
+		dynamic_faction_names = {
+
+		}
+
+		color = {0, 0, 0}
+
+		rules = {
+
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 1.0
+
+		modifiers = {
+
+		}
+
+		can_be_boosted = no
+
+		faction_modifiers = {
+
+		}
+
+		ai_neutral = yes
+	}
+
+}
