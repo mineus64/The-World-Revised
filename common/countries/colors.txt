@@ -13,11 +13,11 @@ DCO = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-CAN = {
+DCA = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
-USA = {
+DUS = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
 }
