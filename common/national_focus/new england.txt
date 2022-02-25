@@ -5,7 +5,7 @@ focus_tree = {
 		factor = 0
 
 		modifier = {
-			add = 10
+			add = 100
 			tag = NEG
 		}
 	}
@@ -13,9 +13,580 @@ focus_tree = {
 	default = no
 
 	continuous_focus_position = {
-		x = 100
-		y = 100
+		x = 0
+		y = 1000
 	}
+
+	###################
+	# INDUSTRIAL TREE #
+	###################
+
+	focus = {
+		id = industrial_effort_neg
+
+		cost = 5
+
+		x = 4
+		y = 0
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = invest_in_the_north_neg
+
+		cost = 5
+
+		x = 2
+		y = 1
+
+		prerequisite = {
+			focus = industrial_effort_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = invest_in_the_south_neg
+
+		cost = 5
+
+		x = 4
+		y = 1
+
+		prerequisite = {
+			focus = industrial_effort_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = invest_in_the_west_neg
+
+		cost = 5
+
+		x = 6
+		y = 1
+
+		prerequisite = {
+			focus = industrial_effort_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = northern_industrial_expansion_neg
+
+		cost = 5
+
+		x = 2
+		y = 2
+
+		prerequisite = {
+			focus = invest_in_the_north_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = southern_industrial_expansion_neg
+
+		cost = 5
+
+		x = 4
+		y = 2
+
+		prerequisite = {
+			focus = invest_in_the_south_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = western_industrial_expansion_neg
+
+		cost = 5
+
+		x = 6
+		y = 2
+
+		prerequisite = {
+			focus = invest_in_the_west_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = northern_industrial_focus_neg
+
+		cost = 5
+
+		x = 2
+		y = 3
+
+		prerequisite = {
+			focus = northern_industrial_expansion_neg
+		}
+
+		mutually_exclusive = {
+			focus = southern_industrial_focus_neg
+			focus = western_industrial_focus_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = southern_industrial_focus_neg
+
+		x = 4
+		y = 3
+
+		prerequisite = {
+			focus = southern_industrial_expansion_neg
+		}
+
+		mutually_exclusive = {
+			focus = northern_industrial_focus_neg
+			focus = western_industrial_focus_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = western_industrial_focus_neg
+
+		x = 6
+		y = 3
+
+		prerequisite = {
+			focus = western_industrial_expansion_neg
+		}
+
+		mutually_exclusive = {
+			focus = northern_industrial_focus_neg
+			focus = southern_industrial_focus_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = invest_in_the_dominions
+
+		x = 7
+		y = 4
+
+		prerequisite = {
+			focus = second_industrial_revolution
+		}
+
+		prerequisite = {
+			focus = northern_industrial_focus_neg
+			focus = southern_industrial_focus_neg
+			focus = western_industrial_focus_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = industrial_research_neg
+
+		x = 9
+		y = 0
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = industry_tech_i_neg
+
+		x = 8
+		y = 1
+
+		prerequisite = {
+			focus = industrial_research_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = extraction_tech_i_neg
+
+		x = 10
+		y = 1
+
+		prerequisite = {
+			focus = industrial_research_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = industry_tech_ii_neg
+
+		x = 8
+		y = 2
+
+		prerequisite = {
+			focus = industry_tech_i_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = extraction_tech_ii_neg
+
+		x = 10
+		y = 2
+
+		prerequisite = {
+			focus = extraction_tech_i_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = second_industrial_revolution
+
+		x = 9
+		y = 3
+
+		prerequisite = {
+			focus = industry_tech_ii_neg
+		}
+
+		prerequisite = {
+			focus = extraction_tech_ii_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	#############################
+	# OUR PLACE IN THE SUN TREE #
+	#############################
+
+	focus = {
+		id = our_place_in_the_sun
+
+		cost = 5
+
+		x = 20
+		y = 0
+
+		completion_reward = {
+
+		}
+	}
+
+	#############################
+	# RUSSIAN ALIGNMENT SUBTREE #
+	#############################
+
+	focus = {
+		id = russian_alliance_neg
+
+		cost = 5
+
+		x = 14
+		y = 1
+
+		prerequisite = {
+			focus = our_place_in_the_sun
+		}
+
+		mutually_exclusive = {
+			focus = chinese_alliance_neg
+			focus = going_at_it_alone
+			focus = deal_with_devil_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = buy_alaska_neg
+
+		cost = 5
+
+		x = 17
+		y = 2
+
+		prerequisite = {
+			focus = russian_alliance_neg
+			focus = going_at_it_alone
+		}
+
+		mutually_exclusive = {
+			focus = give_up_alaska_neg
+			focus = maintain_the_claims
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = give_up_alaska_neg
+
+		x = 14
+		y = 2
+
+		prerequisite = {
+			focus = russian_alliance_neg
+		}
+
+		mutually_exclusive = {
+			focus = buy_alaska_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = exchange_guarantees_rus_neg
+
+		cost = 5
+
+		x = 15
+		y = 3
+
+		prerequisite = {
+			focus = give_up_alaska_neg
+			focus = buy_alaska_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	#############################
+	# CHINESE ALIGNMENT SUBTREE #
+	#############################
+
+	focus = {
+		id = chinese_alliance_neg
+
+		cost = 5
+
+		x = 26
+		y = 1
+
+		prerequisite = {
+			focus = our_place_in_the_sun
+		}
+
+		mutually_exclusive = {
+			focus = russian_alliance_neg
+			focus = going_at_it_alone
+			focus = deal_with_devil_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = give_up_japan_neg
+
+		cost = 5
+
+		x = 26
+		y = 2
+
+		prerequisite = {
+			focus = chinese_alliance_neg
+		}
+
+		mutually_exclusive = {
+			focus = japan_compromise_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = japan_compromise_neg
+
+		cost = 5
+
+		x = 23
+		y = 2
+
+		prerequisite = {
+			focus = chinese_alliance_neg
+			focus = going_at_it_alone
+		}
+
+		mutually_exclusive = {
+			focus = give_up_japan_neg
+			focus = maintain_the_claims
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = exchange_guarantees_chi_neg
+
+		cost = 5
+
+		x = 25
+		y = 3
+
+		prerequisite = {
+			focus = japan_compromise_neg
+			focus = give_up_japan_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	######################################
+	# INDEPENDENT FOREIGN POLICY SUBTREE #
+	######################################
+
+	focus = {
+		id = going_at_it_alone
+
+		cost = 5
+
+		x = 20
+		y = 1
+
+		prerequisite = {
+			focus = our_place_in_the_sun
+		}
+
+		mutually_exclusive = {
+			focus = russian_alliance_neg
+			focus = chinese_alliance_neg
+			focus = deal_with_devil_neg
+		}
+		
+		completion_reward = {
+
+		}
+	}
+
+	focus = {
+		id = maintain_the_claims
+
+		cost = 5
+
+		x = 20
+		y = 2
+
+		prerequisite = {
+			focus = going_at_it_alone
+		}
+
+		mutually_exclusive = {
+			focus = buy_alaska_neg
+			focus = japan_compromise_neg
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	############################
+	# FRENCH ALIGNMENT SUBTREE #
+	############################
+
+	focus = {
+		id = deal_with_devil_neg
+
+		cost = 10
+
+		x = 32
+		y = 1
+
+		prerequisite = {
+			focus = our_place_in_the_sun
+		}
+
+		mutually_exclusive = {
+			focus = russian_alliance_neg
+			focus = chinese_alliance_neg
+			focus = going_at_it_alone
+		}
+
+		completion_reward = {
+
+		}
+	}
+
+	#############################
+	# MANAGE THE DOMINIONS TREE #
+	#############################
+
+
+
+	#################
+	# MILITARY TREE #
+	#################
 
 	
 }

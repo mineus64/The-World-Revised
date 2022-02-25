@@ -1,5 +1,6 @@
 NEG = "countries/New England.txt"
 DCA = "countries/Dominion of California.txt"
 DCO = "countries/Dominion of Columbia.txt"
+DCN = "countries/Dominion of Canada.txt"
 TEX = "countries/Republic of Texas.txt"
-USA = "countries/Dominion of America.txt"
+DUS = "countries/Dominion of America.txt"

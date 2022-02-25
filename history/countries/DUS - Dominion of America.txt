@@ -1,0 +1,59 @@
+﻿capital = 373
+
+oob = "USA_1936"
+
+starting_train_buffer = 5
+
+set_research_slots = 4
+set_stability = 0.75
+set_war_support = 0
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	cv_CAS1 = 1
+	naval_bomber1 = 1
+	CAS1 = 1
+	early_bomber = 1
+	superior_firepower = 1
+	base_strike = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+}
+
+set_convoys = 500
+
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalitarianism = 0
+	monarchism = 75
+	republicanism = 25
+	socialism = 0
+	anarchism = 0
+}
+
+add_ideas = {
+
+}
+
+recruit_character = USA_generic_parliamentary
+promote_character = USA_generic_parliamentary

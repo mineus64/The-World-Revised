@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = DCN
 		buildings = {
 			infrastructure = 1
 			3691 = {
@@ -22,7 +22,7 @@ state={
 		victory_points = {
 			4345 20
 		}
-		add_core_of = CAN
+		add_core_of = DCN
 
 	}
 
